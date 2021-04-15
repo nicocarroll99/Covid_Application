@@ -12,3 +12,6 @@ https://developer.android.com/guide/topics/manifest/permission-element
 
 List of permission names and a short description:
 https://developer.android.com/reference/android/Manifest.permission
+
+Permission information:
+https://developer.android.com/training/permissions/usage-notes
