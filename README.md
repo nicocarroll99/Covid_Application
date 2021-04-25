@@ -13,7 +13,7 @@ Run using any python IDE
 
 Copy path to the APK folder
 
-When prompted, past path to APK folder
+When prompted, paste path to APK folder
 
 Rating System:
 
