@@ -1,7 +1,9 @@
 # Covid_Application
 Application for analyzing the privacy of different covid applications.
 How to use:
-Download Covid_App_Privazy_Analyzer.zip
+Download Covid_App_Privacy_Analyzer.zip
+Download any number of the 6 APK files
+Place the APKs into the file located inside "Covid_App_Privacy_Analyzer.zip" named "APKs"
 Run using any python IDE
 Copy path to the APK folder
 When prompted, past path to APK folder
