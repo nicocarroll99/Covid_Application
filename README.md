@@ -17,6 +17,7 @@ When prompted, past path to APK folder
 
 
 
+
 Rating System:
 
 Most permissions are risk 1, however bluetooth is rated at risk 2, background location, coarse location and fine location are all rated at risk 4.
